@@ -1,0 +1,9 @@
+{
+    "color": "#2F3136",
+    "wrongcolor": "#FF0000",
+    "footertext": "Support - Ticket Tool",
+    "footericon": "https://media.discordapp.net/attachments/944431453259849728/1013775881900138526/images.png",
+    "defaultMsgOpen": "Selamat datang di ticket. Tunggu ticket support merespon anda\n\n**Klik tombol 🔒 untuk menutup ticket anda**",
+    "teksAct": "Sebanyak ${tt} Ticket Channel Terbuka!",
+    "typeAct": "PLAYING"
+}
